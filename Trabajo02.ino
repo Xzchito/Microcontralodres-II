@@ -3,7 +3,7 @@
 
 LiquidCrystal_I2C lcd(0x27, 16,2);  // Cambia 0x27 por 0x3F si es necesario
 
-String mensaje = " Joseph "; // Mensaje largo a desplazarse
+String mensaje = " Jhosep mi eterno hijo "; // Mensaje largo a desplazarse
 int longitudMensaje;
 
 void setup() {
